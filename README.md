@@ -71,8 +71,7 @@ Me motiva seguir creciendo profesionalmente, aportar valor en proyectos reales y
 
 ## ✉️ Contacto
 
-* **GitHub:** [https://github.com/OjkaDev](https://github.com/OjkaDev)
-* **LinkedIn:** *(añade aquí tu enlace)*
+* **LinkedIn:** *www.linkedin.com/in/óscar-calvellido-gil-145522207*
 * **Email:** *ojka96@gmail.com*
 
 ---
