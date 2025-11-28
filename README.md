@@ -36,11 +36,13 @@ Soy un desarrollador de aplicaciones web en constante formación. Me gusta aplic
 ### 🕒 Sistema de gestión de horas y nóminas (Laravel + Vue)
 
 Aplicación completa para fichaje, cálculo de nóminas, parámetros personalizados por usuario, horas nocturnas, complementarias y más.
+
 🔗 [https://github.com/OjkaDev/TFG](https://github.com/OjkaDev/TFG)
 
 ### 🌐 Proyecto Astro + React (OT-Prueba)
 
 Prueba técnica usando Astro 5, React 19 y TailwindCSS 4 para explorar composición híbrida y optimización.
+
 🔗 [https://github.com/OjkaDev/GalOTe](https://github.com/OjkaDev/GalOTe)
 
 ---
