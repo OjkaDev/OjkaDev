@@ -27,7 +27,7 @@ Soy un desarrollador de aplicaciones web en constante formación. Me gusta aplic
 * **Composer**
 * **Vite**
 * **XAMPP / MySQL Workbench**
-* **Postman** (para testear APIs)
+* **Postman**
 
 ---
 
