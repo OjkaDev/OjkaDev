@@ -39,7 +39,7 @@ Aplicación completa para fichaje, cálculo de nóminas, parámetros personaliza
 
 🔗 [https://github.com/OjkaDev/TFG](https://github.com/OjkaDev/TFG)
 
-### 🌐 Proyecto Astro + React (OT-Prueba)
+### 🌐 Proyecto Astro + React (GalOTe)
 
 Prueba técnica usando Astro 5, React 19 y TailwindCSS 4 para explorar composición híbrida y optimización.
 
