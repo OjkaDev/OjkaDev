@@ -18,7 +18,8 @@ Soy un desarrollador de aplicaciones web en constante formación. Me gusta aplic
 
 * **Laravel**
 * **PHP 8**
-* **MySQL**
+* **FastAPI**
+* **MySQL / PostgreSQL**
 * **APIs REST**
 
 ### 🛠️ Herramientas y entorno
@@ -28,16 +29,30 @@ Soy un desarrollador de aplicaciones web en constante formación. Me gusta aplic
 * **Vite**
 * **XAMPP / MySQL Workbench**
 * **Postman**
+* **Supabase**
+* **Vercel / Render**
 
 ---
 
 ## 📁 Proyectos destacados
+
+### 💸 SharedSavings — Gestión de gastos compartidos (React + FastAPI + Supabase)
+
+Aplicación fullstack para dividir gastos entre grupos (compañeros de piso, viajes, pareja) y llevar un seguimiento de finanzas personales. Calcula automáticamente deudas, incluye gráficas analíticas con filtros temporales, categorías personalizadas con control de visibilidad y autenticación JWT con Supabase Auth. Desplegada en producción (Vercel + Render).
+
+🔗 [https://github.com/OjkaDev/SharedSaving](https://github.com/OjkaDev/SharedSavings)
 
 ### 🕒 Sistema de gestión de horas y nóminas (Laravel + Vue)
 
 Aplicación completa para fichaje, cálculo de nóminas, parámetros personalizados por usuario, horas nocturnas, complementarias y más.
 
 🔗 [https://github.com/OjkaDev/TFG](https://github.com/OjkaDev/TFG)
+
+### 📚 Autobiblio — Buscador de libros para Kindle (Python + Textual + Telegram)
+
+Aplicación de escritorio con interfaz TUI (terminal) que busca libros a través de bots de Telegram, los descarga y los envía automáticamente al Kindle por email. Incluye sistema de fallback multi-bot con caché, almacenamiento cifrado de credenciales y scraping para descubrir bots activos.
+
+🔗 [https://github.com/OjkaDev/Autobiblio](https://github.com/OjkaDev/Autobiblio)
 
 ### 🌐 Proyecto Astro + React (GalOTe)
 
@@ -49,7 +64,7 @@ Prueba técnica usando Astro 5, React 19 y TailwindCSS 4 para explorar composici
 
 ## 🎯 Sobre mí
 
-Soy un desarrollador web con formación en Desarrollo de Aplicaciones Web (DAW) y experiencia construyendo proyectos completos utilizando Laravel, Vue, React y Astro. Mi enfoque está orientado a crear soluciones reales y funcionales, aplicando cada conocimiento adquirido de forma práctica y con criterios profesionales.
+Soy un desarrollador web con formación en Desarrollo de Aplicaciones Web (DAW) y experiencia construyendo proyectos completos utilizando Laravel, FastApi, Vue, React y Astro. Mi enfoque está orientado a crear soluciones reales y funcionales, aplicando cada conocimiento adquirido de forma práctica y con criterios profesionales.
 
 Me caracterizo por:
 
@@ -61,6 +76,8 @@ Cuidar cada detalle relacionado con la usabilidad, la accesibilidad y la experie
 
 Diseñar interfaces y funcionalidades que respondan de forma reactiva y fluida, especialmente en dispositivos móviles.
 
+Llevar proyectos a producción con herramientas modernas como Vercel, Render o Supabase, trabajando con stacks heterogéneos según las necesidades del proyecto.
+
 Saber cuándo pedir ayuda, compartir dudas y trabajar con mentalidad de equipo para avanzar más rápido.
 
 Ser organizado, constante y con enfoque profesional incluso en proyectos personales.
@@ -71,7 +88,7 @@ Me motiva seguir creciendo profesionalmente, aportar valor en proyectos reales y
 
 ## ✉️ Contacto
 
-* **LinkedIn:** *www.linkedin.com/in/óscar-calvellido-gil-145522207*
+* **LinkedIn:** [www.linkedin.com/in/ojkadev] (www.linkedin.com/in/ojkadev)
 * **Email:** *ojka96@gmail.com*
 
 ---
