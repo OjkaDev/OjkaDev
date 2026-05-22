@@ -88,7 +88,7 @@ Me motiva seguir creciendo profesionalmente, aportar valor en proyectos reales y
 
 ## ✉️ Contacto
 
-* **LinkedIn:** [www.linkedin.com/in/ojkadev] (www.linkedin.com/in/ojkadev)
+* **LinkedIn:** www.linkedin.com/in/ojkadev
 * **Email:** *ojka96@gmail.com*
 
 ---
